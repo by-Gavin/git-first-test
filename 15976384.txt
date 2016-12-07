@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-new and branch
-=======
-new and branch
->>>>>>> branch
 +aaaa
 abc
 +def distributed
